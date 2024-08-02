@@ -8,6 +8,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KarlsenNetwork)
 
 
+
 This is a modification of Kaspa Rust Miner for the Karlsen network
 please consider donate to the original dev:
 
